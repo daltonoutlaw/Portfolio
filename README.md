@@ -1,6 +1,6 @@
 # Portfolio
 
-## Technical Artifacts and Projects: C#, ASP.Net, EF Core, SQL, RapidMiner, Jupyter, and HTML
+## Technical Artifacts and Projects: ASP.Net, EF Core, HTML, C#, and RapidMiner
 
 This repository showcases a collection of my technical projects, demonstrating proficiency in a variety of technologies including C#, ASP.Net, Entity Framework Core (EF Core), SQL, RapidMiner, Jupyter Notebooks, and HTML. Each project is designed to highlight specific skills and problem-solving abilities.
 
